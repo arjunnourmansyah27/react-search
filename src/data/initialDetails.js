@@ -18,21 +18,21 @@ const initialDetails = [
     imgPath: "/assets/img/3.png",
     name: "Lambda",
     email: "lambda@gmail.com",
-    address: "Baker Street, India",
+    address: "Kelapa 2, Depok",
   },
   {
     id: 4,
     imgPath: "/assets/img/4.png",
-    name: "John Holmes",
-    email: "mary@johnlock.com",
-    address: "Baker Street, India",
+    name: "Zabar Mukhlis",
+    email: "zabar@gmail.com",
+    address: "Condet, Jakarta Timur",
   },
   {
     id: 5,
     imgPath: "/assets/img/5.png",
-    name: "Mycroft Lestrade",
-    email: "britishgovt@gmail.com",
-    address: "London, India",
+    name: "Bardi",
+    email: "Bardi@gmail.com",
+    address: "Limo, Depok",
   },
 ];
 
