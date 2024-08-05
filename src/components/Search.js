@@ -24,7 +24,7 @@ function Search({ details }) {
 
   const handleChange = e => {
     setSearchField(e.target.value);
-    if(e.target.value===""){
+    if(e.target.value==="name"){
       setSearchShow(false);
     }
     else {
