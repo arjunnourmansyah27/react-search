@@ -11,7 +11,7 @@ const initialDetails = [
     imgPath: "/assets/img/2.png",
     name: "Arjun",
     email: "arjun@gmail.com",
-    address: "Cimanggis, Depok",
+    address: "Cimanggis, Depok Jawa Barat",
   },
   {
     id: 3,
