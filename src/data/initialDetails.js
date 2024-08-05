@@ -18,7 +18,7 @@ const initialDetails = [
     imgPath: "/assets/img/3.png",
     name: "Lambda",
     email: "lambda@gmail.com",
-    address: "Kelapa 2, Depok",
+    address: "Gunadarma, Depok",
   },
   {
     id: 4,
